@@ -72,17 +72,6 @@ body {
   background-color: #007bff;
   border: none;
   border-radius: 4px;
-  cursor: pointer;
+  curso: pointer;
   transition: background-color 0.3s;
-}
-
-.rsvp-btn:hover {
-  background-color: #0056b3;
-}
-
-/* Keyframes for Animation */
-@keyframes slideUp {
-  to {
-    transform: translateY(0);
-  }
 }
